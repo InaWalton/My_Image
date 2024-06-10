@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="512" height="512">
+  <defs>
+    <radialGradient id="I08en1acjnNoliAhiqwdgb" cx="24" cy="24" r="18" gradientUnits="userSpaceOnUse">
+      <stop offset=".756" stop-color="#d42020" />
+      <stop offset=".787" stop-color="#de3434" stop-opacity=".759" />
+      <stop offset=".857" stop-color="#f86868" stop-opacity=".158" />
+      <stop offset=".875" stop-color="#ff7575" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="I08en1acjnNoliAhiqwdga" x1="24" x2="24" y1="6" y2="42" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f85e55" />
+      <stop offset="1" stop-color="#d41414" />
+    </linearGradient>
+  </defs>
+  <g data-name="hollow red circle">
+    <path fill="url(#I08en1acjnNoliAhiqwdga)" d="M24,6A18.1,18.1,0,0,0,6,24.11,18,18,0,1,0,24,6Zm0,31A13,13,0,1,1,37,24,13,13,0,0,1,24,37Z" />
+    <path fill="url(#I08en1acjnNoliAhiqwdgb)" d="M24,6A18.1,18.1,0,0,0,6,24.11,18,18,0,1,0,24,6Zm0,31A13,13,0,1,1,37,24,13,13,0,0,1,24,37Z" opacity=".8" />
+  </g>
+</svg>
